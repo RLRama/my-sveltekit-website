@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Ministry of Public Health, La Rioja, Argentina",
+    "period": "April 2023 - present",
+    "position": "Back-end developer",
+    "tasks": [
+      "Collaborated in a cross-functional team to maintain and enhance a RESTful API built on Spring Framework.",
+      "Developed new API endpoints to support client requirements.",
+      "Collaborated with frontend developers and DBAs to design and document clear API endpoints, promoting seamless app integration."
+    ]
+  },
+  {
+    "company": "Freelance professional",
+    "period": "2014 - present",
+    "position": "IT technician",
+    "tasks": [
+      "Diagnosed and repaired hardware and software issues for a diverse range of more than 100 clients.",
+      "Assembled, configured and maintained custom-built computer systems, ensuring performance and compatibility.",
+      "Stayed current with industry trends, maintaining expertise in the latest hardware and software technologies."
+    ]
+  }
+]
