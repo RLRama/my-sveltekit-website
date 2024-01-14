@@ -2,7 +2,7 @@
   {
     "name": "Digital Health Story - La Rioja, Argentina",
     "description": "This project is a fork of Pladema's main project, HSI -a hospital management network across the country-. Our implementation has approximately twice the functionality.",
-    "techsDescription": "It uses a huge number of tools, but the ones I'm more involved with are Java, Spring Framework, Lombok, Maven, PostgreSQL, and design principles such as SOLID, Clean architecture, Hexagonal architecture, and RESTful architecture.",
+    "techsDescription": "It uses a huge number of tools, but the ones I'm more involved with are Java, Spring Framework, Lombok, Maven, PostgreSQL, and design principles such as SOLID, Clean, hexagonal, and RESTful architecture patterns.",
     "repositoryLink": "https://github.com/Historia-Clinica-La-Rioja/historia_clinica_LR",
     "websiteLink": "https://hsi-test.larioja.gob.ar/",
     "imageLink": "https://i.imgur.com/Rry15sY.png"
@@ -27,7 +27,7 @@
   },
   {
     "name": "Portfolio: personal website",
-    "description": "This page is SvelteKit webapp I developed to start learning front-end frameworks. It's actually running as a Node server: for example, you can access a test API showing a JSON by click 'Live demo', or going to '/api/projects'.",
+    "description": "This page is SvelteKit webapp I developed to start learning front-end basic concepts. It's actually running as a Node server: for example, you can access a test API showing a JSON by click 'Live demo', or going to '/api/projects'.",
     "techsDescription": "This was made using TypeScript, SvelteKit, SvelteStrap and Node.js.",
     "repositoryLink": "https://github.com/RLRama/my-sveltekit-website",
     "websiteLink": "/api/projects",
