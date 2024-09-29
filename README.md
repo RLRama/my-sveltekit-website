@@ -45,3 +45,10 @@ npm run preview
 ### Deployment
 
 Deploy and build in your preferred hosting provider. Change adapter in the source code to match your hosting platform.
+
+### Project status
+
+In development. Future tasks include:
+
+1. Update my personal information
+2. Use more scripting to enhance functionality in general
